@@ -1,5 +1,5 @@
 package module
 
-func SayHello() string {
-	return "Hello saya module v1.5.0"
+func SayHello(nama string) string {
+	return "Hello saya module v2.0.0"
 }
